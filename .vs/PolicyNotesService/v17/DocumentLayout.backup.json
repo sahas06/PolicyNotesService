@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF5CA9D-7554-48A6-B109-46DE99DBCB0A}|PolicyNotesService.Tests\\PolicyNotesService.Tests.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice.tests\\integration\\policynotesintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF5CA9D-7554-48A6-B109-46DE99DBCB0A}|PolicyNotesService.Tests\\PolicyNotesService.Tests.csproj|solutionrelative:policynotesservice.tests\\integration\\policynotesintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF5CA9D-7554-48A6-B109-46DE99DBCB0A}|PolicyNotesService.Tests\\PolicyNotesService.Tests.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice.tests\\unit\\policynoteserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF5CA9D-7554-48A6-B109-46DE99DBCB0A}|PolicyNotesService.Tests\\PolicyNotesService.Tests.csproj|solutionrelative:policynotesservice.tests\\unit\\policynoteserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\models\\policynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\models\\policynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\repositories\\ipolicynoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\repositories\\ipolicynoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\repositories\\policynoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\repositories\\policynoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\services\\ipolicynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\services\\ipolicynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\services\\policynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\services\\policynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\dtos\\createpolicynotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\dtos\\createpolicynotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sahasra\\desktop\\chubb.net\\policynotesservice\\policynotesservice\\dtos\\policynotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C773C-5EF8-4863-9035-29C9FF9A9C21}|PolicyNotesService\\PolicyNotesService.csproj|solutionrelative:policynotesservice\\dtos\\policynotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyNotesIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService.Tests\\Integration\\PolicyNotesIntegrationTests.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService.Tests\\Integration\\PolicyNotesIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService.Tests\\Integration\\PolicyNotesIntegrationTests.cs",
+              "RelativeToolTip": "PolicyNotesService.Tests\\Integration\\PolicyNotesIntegrationTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:13:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Program.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Program.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Program.cs",
+              "RelativeToolTip": "PolicyNotesService\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:53:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyNoteServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService.Tests\\Unit\\PolicyNoteServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService.Tests\\Unit\\PolicyNoteServiceUnitTests.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService.Tests\\Unit\\PolicyNoteServiceUnitTests.cs",
+              "RelativeToolTip": "PolicyNotesService.Tests\\Unit\\PolicyNoteServiceUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:05:02.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PolicyNotesService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:50:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolicyNote.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Models\\PolicyNote.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Models\\PolicyNote.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Models\\PolicyNote.cs",
+              "RelativeToolTip": "PolicyNotesService\\Models\\PolicyNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:50:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPolicyNoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Repositories\\IPolicyNoteRepository.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Repositories\\IPolicyNoteRepository.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Repositories\\IPolicyNoteRepository.cs",
+              "RelativeToolTip": "PolicyNotesService\\Repositories\\IPolicyNoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:50:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PolicyNoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Repositories\\PolicyNoteRepository.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Repositories\\PolicyNoteRepository.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Repositories\\PolicyNoteRepository.cs",
+              "RelativeToolTip": "PolicyNotesService\\Repositories\\PolicyNoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:51:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPolicyNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Services\\IPolicyNoteService.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Services\\IPolicyNoteService.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Services\\IPolicyNoteService.cs",
+              "RelativeToolTip": "PolicyNotesService\\Services\\IPolicyNoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:51:44.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Services\\PolicyNoteService.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Services\\PolicyNoteService.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Services\\PolicyNoteService.cs",
+              "RelativeToolTip": "PolicyNotesService\\Services\\PolicyNoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:52:06.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePolicyNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Dtos\\CreatePolicyNoteDto.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Dtos\\CreatePolicyNoteDto.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Dtos\\CreatePolicyNoteDto.cs",
+              "RelativeToolTip": "PolicyNotesService\\Dtos\\CreatePolicyNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:52:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolicyNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Dtos\\PolicyNoteDto.cs",
+              "RelativeDocumentMoniker": "PolicyNotesService\\Dtos\\PolicyNoteDto.cs",
+              "ToolTip": "C:\\Users\\SAHASRA\\Desktop\\chubb.net\\PolicyNotesService\\PolicyNotesService\\Dtos\\PolicyNoteDto.cs",
+              "RelativeToolTip": "PolicyNotesService\\Dtos\\PolicyNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:52:56.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
